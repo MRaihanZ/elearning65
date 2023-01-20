@@ -9,7 +9,7 @@ Programming language:
 
 Framework:
 1. Laravel (v9)
-2. Jquery
+2. Jquery (v3.6.3)
 3. Bootstrap (v5.3)
 
 other (kalo bisa):
