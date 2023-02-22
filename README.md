@@ -8,7 +8,7 @@ Programming language:
 4. PHP
 
 Framework:
-1. Laravel (v9)
+1. Laravel (v10)
 2. Jquery (v3.6.3)
 3. Bootstrap (v5.3)
 
