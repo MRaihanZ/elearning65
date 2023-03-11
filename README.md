@@ -11,6 +11,7 @@ Framework:
 1. Laravel (v10)
 2. Jquery (v3.6.3)
 3. Bootstrap (v5.3)
+4. Alpinejs
 
 other (kalo bisa):
 1. API
