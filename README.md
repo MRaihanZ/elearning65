@@ -15,3 +15,5 @@ Framework:
 
 other (kalo bisa):
 1. API
+2. AOS JS
+3. anime js / gsap
