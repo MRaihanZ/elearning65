@@ -14,13 +14,19 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('home', [
+        "title" => "Home | E-Learning 65"
+    ]);
 });
 
 Route::get('/lr/teacher', function () {
-    return view('lr/teacher');
+    return view('lr/teacher', [
+        "title" => "LR | E-Learning 65"
+    ]);
 });
 
 Route::get('/lr/student', function () {
-    return view('lr/student');
+    return view('lr/student', [
+        "title" => "LR | E-Learning 65"
+    ]);
 });
