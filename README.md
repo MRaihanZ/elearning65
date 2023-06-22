@@ -2,6 +2,10 @@
 
 (PKL) E-Learning project
 
+Partner:
+- <a href="https://github.com/Fajar1273">Fajar1273</a>
+- <a href="https://github.com/viatortar">viatortar</a>
+
 Programming language:
 
 1. HTML
