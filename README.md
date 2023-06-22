@@ -7,24 +7,21 @@ Partner:
 - <a href="https://github.com/viatortar">viatortar</a>
 
 Programming language:
-
 1. HTML
 2. CSS
 3. Javascript
 4. PHP
 
 Framework:
-
 1. <a href="#laravel">Laravel (v10)</a>
 2. Jquery (v3.6.3) / react js
 3. Bootstrap (v5.3)
 4. Alpinejs
+5. AOS JS
+6. anime js / gsap
 
 other:
-
 1. API
-2. AOS JS
-3. anime js / gsap
 
 ## Laravel
 
