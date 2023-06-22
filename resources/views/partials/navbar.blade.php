@@ -29,7 +29,7 @@
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="/signin/siswa">Sign up</a></li>
+                            <li><a class="dropdown-item" href="/signup/siswa">Sign up</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -42,7 +42,20 @@
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="/signin/guru">Sign up</a></li>
+                            <li><a class="dropdown-item" href="/signup/guru">Sign up</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Member
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/signin/member">Sign in</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="/signup/member">Sign up</a></li>
                         </ul>
                     </li>
                 </ul>
