@@ -20,7 +20,7 @@ Framework:
 3. Bootstrap (v5.3)
 4. Alpinejs
 
-other (kalo bisa):
+other:
 
 1. API
 2. AOS JS
