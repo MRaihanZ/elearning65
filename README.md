@@ -1,3 +1,29 @@
+# project65
+
+(PKL) E-Learning project
+
+Programming language:
+
+1. HTML
+2. CSS
+3. Javascript
+4. PHP
+
+Framework:
+
+1. <a href="#laravel">Laravel (v10)</a>
+2. Jquery (v3.6.3)
+3. Bootstrap (v5.3)
+4. Alpinejs
+
+other (kalo bisa):
+
+1. API
+2. AOS JS
+3. anime js / gsap
+
+## Laravel
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
