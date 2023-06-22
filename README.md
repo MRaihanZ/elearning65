@@ -12,7 +12,7 @@ Programming language:
 Framework:
 
 1. <a href="#laravel">Laravel (v10)</a>
-2. Jquery (v3.6.3)
+2. Jquery (v3.6.3) / react js
 3. Bootstrap (v5.3)
 4. Alpinejs
 
