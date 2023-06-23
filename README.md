@@ -1,30 +1,3 @@
-# project65
-
-(PKL) E-Learning project
-
-Partner:
-- <a href="https://github.com/Fajar1273">Fajar1273</a>
-- <a href="https://github.com/viatortar">viatortar</a>
-
-Programming language:
-1. HTML
-2. CSS
-3. Javascript
-4. PHP
-
-Framework:
-1. <a href="#laravel">Laravel (v10)</a>
-2. Jquery (v3.6.3) / react js
-3. Bootstrap (v5.3)
-4. Alpinejs
-5. AOS JS
-6. anime js / gsap
-
-other:
-1. API
-
-## Laravel
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
